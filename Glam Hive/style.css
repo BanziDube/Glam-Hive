@@ -1,0 +1,23 @@
+body{
+    background-image: url(../../../Downloads/background.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.nav-item{
+    background-color: transparent;
+    color: black;
+    border: none;
+    list-style-type: none;
+    display: inline-block;
+}
+
+.col-md-6{
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    opacity: 0.9;
+}
